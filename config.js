@@ -1,5 +1,5 @@
 const config = {
-  jsdURL: 'https://cdn.jsdelivr.net',
+  jsdURL: 'https://chatgpt.com',
   allowedOrigins: '*',
 }
 module.exports = config;
